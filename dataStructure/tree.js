@@ -20,4 +20,4 @@ function traverse(node) {
     }
 }
 
-traverse(tree);
+traverse(tree)
