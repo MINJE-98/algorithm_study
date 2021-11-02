@@ -1,0 +1,3 @@
+run="python ./Python/main.py"
+language="python2"
+onBoot="echo Booting up!"
