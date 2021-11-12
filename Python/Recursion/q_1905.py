@@ -7,3 +7,6 @@ def answer(s):
   return s + answer(s - 1)
 
 print(answer(n))
+
+# keypoint
+# 파이썬은 재귀호출의 맥스값을 지정할 수 있다.

@@ -6,4 +6,4 @@ import sys
 # import recursive
 
 sys.path.append('/home/runner/algorithmstudy/Python/Recursion')
-import q_1905
+import q_1928
